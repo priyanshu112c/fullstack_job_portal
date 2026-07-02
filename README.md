@@ -1,5 +1,7 @@
 # AIGravity Job Portal
 
+Deploy Link :- https://job-portal-frontend-daddy82.vercel.app/
+
 A full-stack job portal platform connecting job seekers, recruiters, and administrators with real-time messaging, AI-powered resume analysis, and comprehensive administrative moderation tools.
 
 **Purpose:** Provide a modern, secure, and scalable job marketplace where job seekers can discover opportunities, recruiters can manage postings and applicants, and administrators can oversee platform operations with granular moderation capabilities.
